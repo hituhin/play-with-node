@@ -1,0 +1,23 @@
+{
+  "name": "playwithnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hituhin/play-with-node.git"
+  },
+  "author": "sheikh tuhin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hituhin/play-with-node/issues"
+  },
+  "homepage": "https://github.com/hituhin/play-with-node#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
