@@ -38,8 +38,4 @@ const requestHandler = (req ,res)=>{
 }
  module.exports =requestHandler;
 
-//  or 
-// module.exports ={
-//     handler: requestHandler,
-//     text : "here is some text"
-// }
+
